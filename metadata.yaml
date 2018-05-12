@@ -1,10 +1,16 @@
 _repo: Carlsbad-Caverns-National-Park-New-Mexico-The-Story-of-its-Early-Explorations-as-told-by-Jim-__49970
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49970-h/images/bcover.jpg
 creator:
   author:
     agent_name: White, Jim
     gutenberg_agent_id: '45633'
     url: http://www.gutenberg.org/2009/agents/45633
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49970#Carlsbad-Caverns-National-Park-New-Mexico-The-Story-of-its-Early-Explorations-as-told-by-Jim-_
 gutenberg_issued: '2015-09-14'
 gutenberg_type: Text
 identifiers:
